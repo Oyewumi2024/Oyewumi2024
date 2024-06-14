@@ -1,8 +1,5 @@
 ## Hi there 👋I am Oyewumi Areoye
 
-
-**Oyewumi2024/Oyewumi2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analysis
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: He
 - ⚡ Fun fact: Funny
-  You can reach me [here] (https://www.linkedin.com/in/oyewumi-areoye-a2498a137/)
-You can also reach me on [GitHub] (https://github.com/Oyewumi2024))
+  You can reach me [here](https://www.linkedin.com/in/oyewumi-areoye-a2498a137/)
+  
